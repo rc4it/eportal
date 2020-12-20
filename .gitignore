@@ -56,10 +56,12 @@ coverage.xml
 *.pot
 
 # Django stuff:
+# Ignoring settings.py to not accidentally commit any credentials
 *.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+RC4Website/RC4Website/settings.py
 
 # Flask stuff:
 instance/
