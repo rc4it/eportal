@@ -1,1 +1,0 @@
-Creating page to create event
